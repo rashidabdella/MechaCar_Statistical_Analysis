@@ -7,15 +7,14 @@ AutosRUs’ is having some production issues, this job requires the data analyti
 
 Below is a linear regression model.
 
-![Screenshot (275)](https://user-images.githubusercontent.com/102890151/178132929-0df105f5-4588-4fd4-9980-2c8d888bff61.png)](https://user-images.githubusercontent.com/102890151/178132929-0df105f5-4588-4fd4-9980-2c8d888bff61.png)
+![Screenshot (275)](https://user-images.githubusercontent.com/102890151/178132929-0df105f5-4588-4fd4-9980-2c8d888bff61.png)]
 
 
 
 #### Summary of Linear Regression to Predict MPG with Three Questions Addressed
 
 
-![Screenshot (280)](https://user-images.githubusercontent.com/102890151/178148399-adc3b0aa-eda0-4e6d-aff4-5bba87e47635.png)](https://user-images.githubusercontent.com/102890151/178148399-adc3b0aa-eda0-4e6d-aff4-5bba87e47635.png)
-
+![Screenshot (280)](https://user-images.githubusercontent.com/102890151/178148399-adc3b0aa-eda0-4e6d-aff4-5bba87e47635.png)
 We should reject the null hypothesis because the p-value is far below the .05 range.
 The r-squared value shows that there is a very strong correlation.  
 
@@ -24,20 +23,18 @@ The r-squared value shows that there is a very strong correlation.
 
 Below is a summary statistics on suspension coils.
 
-![Screenshot (370)](https://user-images.githubusercontent.com/102890151/178150933-d5e49690-4c75-4364-9b38-e95ed391a74c.png)](https://user-images.githubusercontent.com/102890151/178150933-d5e49690-4c75-4364-9b38-e95ed391a74c.png)
+![Screenshot (370)](https://user-images.githubusercontent.com/102890151/178150933-d5e49690-4c75-4364-9b38-e95ed391a74c.png)
 
 
-
-![Screenshot (271)](https://user-images.githubusercontent.com/102890151/178132486-d91482f1-2533-429c-bce5-3d63c384b929.png)](https://user-images.githubusercontent.com/102890151/178132486-d91482f1-2533-429c-bce5-3d63c384b929.png)
-
+![Screenshot (271)](https://user-images.githubusercontent.com/102890151/178132486-d91482f1-2533-429c-bce5-3d63c384b929.png)]
 
 
 ### T-Test on Suspension Coils
 
-![Screenshot (274)](https://user-images.githubusercontent.com/102890151/178132456-3aaee353-64ae-4a0e-b374-c1c5f3c9e6a7.png)](https://user-images.githubusercontent.com/102890151/178132456-3aaee353-64ae-4a0e-b374-c1c5f3c9e6a7.png)
+![Screenshot (274)](https://user-images.githubusercontent.com/102890151/178132456-3aaee353-64ae-4a0e-b374-c1c5f3c9e6a7.png)]
 
 Here are screenshots of t-tests.
-[![Screenshot (273)](https://user-images.githubusercontent.com/102890151/178132451-3c817e77-b8df-476f-81a5-0a3d3275b61f.png)](https://user-images.githubusercontent.com/102890151/178132451-3c817e77-b8df-476f-81a5-0a3d3275b61f.png)
+[![Screenshot (273)](https://user-images.githubusercontent.com/102890151/178132451-3c817e77-b8df-476f-81a5-0a3d3275b61f.png)]
 
 
 ### Summary of T-Tests
